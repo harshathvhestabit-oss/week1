@@ -4,3 +4,4 @@ console.log(task on git advanced commands);
 console,log(bisect,revert,stash,cherry pick);
 console.log(currently doing task 1);
 console.log(creating 8 commits);
+console.log(with commit 4 as intentional bug);
